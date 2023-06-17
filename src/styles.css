@@ -1,0 +1,14 @@
+::-webkit-scrollbar { 
+  display: none; 
+}
+
+.App {
+  font-family: monospace;
+  /* text-align: center; */
+}
+
+.list-container {
+  display: flex;
+  width: 78%;
+  overflow-y: scroll
+}
